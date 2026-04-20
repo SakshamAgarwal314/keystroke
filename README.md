@@ -2,7 +2,7 @@
 
 A web analytics dashboard for your [MonkeyType](https://monkeytype.com) typing history — rolling averages, goal tracking, and trend analysis for every test you've ever taken.
 
-**Live demo:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app) · try the preview button for a full dashboard without an account
+**Live demo:** [your-vercel-url.vercel.app](https://keystroke-sakshamagarwal314.vercel.app) · try the preview button for a full dashboard without an account
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-3-38bdf8) ![Vercel](https://img.shields.io/badge/Vercel-deployed-000)
 
